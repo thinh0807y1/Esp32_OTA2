@@ -1,6 +1,6 @@
 {
   "fw_version": "0.2.0",
-   "fw_url":"https://github.com/thinh0807y1/Esp32_OTA2/blob/main/firmware3.ino.esp32.bin",
+   "fw_url":"https://raw.githubusercontent.com/thinh0807y1/Esp32_OTA2/main/firmware3.ino.esp32.bin",
   "fw_hash": "cfba0af093a66d4c4fa67f9c5b295ab18914327982c0669d122536be96bc529b",
   "fw_signature": "GKYY3XJx0Nkx66tbqkoTYBc0uAEKwM4tdldw3Nd4u/KH2J/0KcNsMTRo1zr7Z+PN
 T1rCBn96k/FrYaWl0ebFKloimYS6VX+G7blAeVVzHIIK+KBpHlQrqveiaj72MnjW
@@ -10,4 +10,5 @@ dXrSPHPTgYVRl1gjN5CfqukD1rLRCga1SJNZNumYuBfxFU/m8zPMM6WY20jZOkKG
 N4vfSd1oX0s1+Pjixj/h9g=="
 
 }
+
 
